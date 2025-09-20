@@ -23,8 +23,13 @@ import {
   jobit,
   tripguide,
   threejs,
+
   
 } from "../assets";
+
+import reelroster from "../assets/reelroster.png";
+import iwood from "../assets/iwood.png";
+import pg from "../assets/pg.png";
 
 
 export const navLinks = [
@@ -117,12 +122,25 @@ const technologies = [
 ];
 
 const experiences = [
+   {
+    title: "React.js Developer",
+    company_name: "WorksDelight",
+    icon: starbucks,
+    iconBg: "#383E56",
+    date: "July 2024 - Present",
+    points: [
+      "Designed and developed a scalable booking UI using React.js, ensuring a smooth and intuitive user experience across devices.",
+      "Implemented Supabase for authentication, database management, and backend services, accelerating development and ensuring reliable data handling",
+      "Leveraged advanced AI tools (Claude, Loveable, Cursior) to automate backend processes and enhance system intelligence, increasing operational efficiency,",
+  
+    ],
+  },
   {
     title: "Frontend Developer",
     company_name: "NTPL",
     icon: starbucks,
     iconBg: "#383E56",
-    date: "December 2024 - Present",
+    date: "Sep 2024 - June 2025",
     points: [
       "Developing and maintaining web applications using React.js and other related technologies.",
       "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
@@ -135,7 +153,7 @@ const experiences = [
     company_name: "Marketing Amplify Lab Agency",
     icon: tesla,
     iconBg: "#E6DEDD",
-    date: "December 2023 - October 2024",
+    date: "May 2023 - Aug 2024",
     points: [
       "Spearheaded the Front-end development of Marketing Amplify, the company’s flagship product using React.js, focusing on modular and reusable components to enhance maintainability and scalability",
       "Optimized application performance by implementing best practices such as code splitting, lazy loading, and state management with Redux, resulting in significant improvements in load times.",
@@ -147,7 +165,7 @@ const experiences = [
     company_name: "PiZone Infotech Solution Limited",
     icon: shopify,
     iconBg: "#383E56",
-    date: "December 2022 - June 2023",
+    date: "December 2022 - April 2023",
     points: [
       "Played a pivotal role in the development of real-life projects leveraging Flutter framework, contributing to the end-to-end development lifecycle",
       "Demonstrated expertise in API integration, ensuring seamless communication between the frontend and backend systems",
@@ -205,8 +223,9 @@ const projects = [
         color: "pink-text-gradient",
       },
     ],
-    image: carrent,
-    source_code_link: "https://github.com/",
+    image: reelroster,
+    source_code_link: "https://github.com/rajputajay1/mansion-muse",
+    project_link: "https://boisterous-sunshine-25c834.netlify.app/"
   },
   {
     name: "Iwood",
@@ -223,26 +242,30 @@ const projects = [
       },
      
     ],
-    image: jobit,
-    source_code_link: "https://github.com/",
+    image: iwood,
+    source_code_link: "https://github.com/rajputajay1/mansion-muse",
+      project_link: "https://iwood.in/"
+
   },
   {
-    name: "Trip Guide",
+    name: "StaySmart",
     description:
-      "Enhanced the Movies web app by adding advanced search, dynamic pagination, and real-time API integration, along with skeleton loading states for smooth data transitions, resulting in a faster, more responsive, and user-friendly experience.",
+      "Developed a SaaS-based PG Management System with Super Admin and Owner dashboards for student, staff, and rent management. Integrated subscription plans, secure authentication, and automated email notifications for seamless operations.",
     tags: [
       {
-        name: "Flutter",
+        name: "React JS",
         color: "blue-text-gradient",
       },
       {
-        name: "Dart",
+        name: "Supabase",
         color: "blue-text-gradient",
       }
    
     ],
-    image: tripguide,
-    source_code_link: "https://github.com/",
+    image: pg,
+    source_code_link: "https://github.com/rajputajay1/mansion-muse",
+        project_link: "https://mansion-muse-hub.vercel.app/"
+
   },
 ];
 
