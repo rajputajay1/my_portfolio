@@ -160,19 +160,19 @@ const experiences = [
       "Implementing responsive design and ensuring cross-browser compatibility.",
     ],
   },
-  {
-    title: "Flutter Intern",
-    company_name: "PiZone Infotech Solution Limited",
-    icon: shopify,
-    iconBg: "#383E56",
-    date: "December 2022 - April 2023",
-    points: [
-      "Played a pivotal role in the development of real-life projects leveraging Flutter framework, contributing to the end-to-end development lifecycle",
-      "Demonstrated expertise in API integration, ensuring seamless communication between the frontend and backend systems",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
-    ],
-  },
+  // {
+  //   title: "Flutter Intern",
+  //   company_name: "PiZone Infotech Solution Limited",
+  //   icon: shopify,
+  //   iconBg: "#383E56",
+  //   date: "October 2022 - Jan 2023",
+  //   points: [
+  //     "Played a pivotal role in the development of real-life projects leveraging Flutter framework, contributing to the end-to-end development lifecycle",
+  //     "Demonstrated expertise in API integration, ensuring seamless communication between the frontend and backend systems",
+  //     "Implementing responsive design and ensuring cross-browser compatibility.",
+  //     "Participating in code reviews and providing constructive feedback to other developers.",
+  //   ],
+  // },
 
 ];
 
