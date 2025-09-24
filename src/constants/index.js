@@ -127,7 +127,7 @@ const experiences = [
     company_name: "WorksDelight",
     icon: starbucks,
     iconBg: "#383E56",
-    date: "July 2024 - Present",
+    date: "April 2025 - Present",
     points: [
       "Designed and developed a scalable booking UI using React.js, ensuring a smooth and intuitive user experience across devices.",
       "Implemented Supabase for authentication, database management, and backend services, accelerating development and ensuring reliable data handling",
@@ -140,7 +140,7 @@ const experiences = [
     company_name: "NTPL",
     icon: starbucks,
     iconBg: "#383E56",
-    date: "Sep 2024 - June 2025",
+    date: "May 2024 - March 2025",
     points: [
       "Developing and maintaining web applications using React.js and other related technologies.",
       "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
@@ -153,7 +153,7 @@ const experiences = [
     company_name: "Marketing Amplify Lab Agency",
     icon: tesla,
     iconBg: "#E6DEDD",
-    date: "May 2023 - Aug 2024",
+    date: "Jan 2023 - March 2024",
     points: [
       "Spearheaded the Front-end development of Marketing Amplify, the company’s flagship product using React.js, focusing on modular and reusable components to enhance maintainability and scalability",
       "Optimized application performance by implementing best practices such as code splitting, lazy loading, and state management with Redux, resulting in significant improvements in load times.",
