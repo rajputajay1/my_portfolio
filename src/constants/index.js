@@ -124,28 +124,29 @@ const technologies = [
 const experiences = [
    {
     title: "Full Stack Developer",
-    company_name: "WorksDelight",
+    company_name: "KayJay Global Solutions Pvt. Ltd",
     icon: starbucks,
     iconBg: "#383E56",
     date: "April 2025 - Present",
     points: [
-      "Designed and developed a scalable booking UI using React.js, ensuring a smooth and intuitive user experience across devices.",
-      "Implemented Supabase for authentication, database management, and backend services, accelerating development and ensuring reliable data handling",
-      "Leveraged advanced AI tools (Claude, Loveable, Cursior) to automate backend processes and enhance system intelligence, increasing operational efficiency,",
+      "Built a scalable Election Management System supporting 40K+ users, implementing secure authentication and optimized APIs to ensure high performance and reliability.",
+      "Designed and integrated RESTful APIs and backend logic using Node.js, improving data processing efficiency and reducing response time.",
+      "Integrated secure payment gateways (Stripe, Razorpay), ensuring reliable transactions and seamless checkout experience.",
+      "Implemented Supabase for authentication and database management, enabling secure access control and real-time data handling."
   
     ],
   },
   {
-    title: "Frontend Developer",
+    title: "Full Stack Developer",
     company_name: "NTPL",
     icon: starbucks,
     iconBg: "#383E56",
     date: "May 2024 - March 2025",
     points: [
-      "Developing and maintaining web applications using React.js and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
+      "Developed cross-platform mobile applications using Flutter,ensuring smooth performance across Android and iOS.",
+      "Built responsive and dynamic web applications using React.js, improving user experience and interface consistency.",
+      "Designed and integrated RESTful APIs using Node.js, enabling efficient data communication between frontend and backend",
+      "Optimized application performance by improving state management and reducing load time, enhancing overall user experience.",
     ],
   },
   {
@@ -224,7 +225,7 @@ const projects = [
       },
     ],
     image: reelroster,
-    source_code_link: "https://github.com/rajputajay1/mansion-muse",
+    source_code_link: "https://boisterous-sunshine-25c834.netlify.app/",
     project_link: "https://boisterous-sunshine-25c834.netlify.app/"
   },
   {
@@ -243,7 +244,7 @@ const projects = [
      
     ],
     image: iwood,
-    source_code_link: "https://github.com/rajputajay1/mansion-muse",
+    source_code_link: "https://iwood.in/",
       project_link: "https://iwood.in/"
 
   },
@@ -263,7 +264,7 @@ const projects = [
    
     ],
     image: pg,
-    source_code_link: "https://github.com/rajputajay1/mansion-muse",
+    source_code_link: "https://mansion-muse-hub.vercel.app/",
         project_link: "https://mansion-muse-hub.vercel.app/"
 
   },
