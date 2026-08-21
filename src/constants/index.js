@@ -30,6 +30,7 @@ import {
 import reelroster from "../assets/reelroster.png";
 import iwood from "../assets/iwood.png";
 import pg from "../assets/pg.png";
+import sanik from "../assets/sanik.webp";
 
 
 export const navLinks = [
@@ -127,7 +128,7 @@ const experiences = [
     company_name: "KayJay Global Solutions Pvt. Ltd",
     icon: starbucks,
     iconBg: "#383E56",
-    date: "April 2025 - Present",
+    date: "Aug 2025 - Present",
     points: [
       "Built a scalable Election Management System supporting 40K+ users, implementing secure authentication and optimized APIs to ensure high performance and reliability.",
       "Designed and integrated RESTful APIs and backend logic using Node.js, improving data processing efficiency and reducing response time.",
@@ -141,7 +142,7 @@ const experiences = [
     company_name: "NTPL",
     icon: starbucks,
     iconBg: "#383E56",
-    date: "May 2024 - March 2025",
+    date: "July 2024 - June 2025",
     points: [
       "Developed cross-platform mobile applications using Flutter,ensuring smooth performance across Android and iOS.",
       "Built responsive and dynamic web applications using React.js, improving user experience and interface consistency.",
@@ -150,15 +151,15 @@ const experiences = [
     ],
   },
   {
-    title: "React.js Developer",
-    company_name: "Marketing Amplify Lab Agency",
+    title: "Full Stack Developer",
+    company_name: "PiZone Infotech",
     icon: tesla,
     iconBg: "#E6DEDD",
-    date: "Jan 2023 - March 2024",
+    date: "Feb 2024 - may 2024",
     points: [
-      "Spearheaded the Front-end development of Marketing Amplify, the company’s flagship product using React.js, focusing on modular and reusable components to enhance maintainability and scalability",
-      "Optimized application performance by implementing best practices such as code splitting, lazy loading, and state management with Redux, resulting in significant improvements in load times.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
+      "Developed responsive web and mobile application interfaces using React.js, Flutter, and Dart, following reusable component and widget-based development practices.",
+      "Built and integrated RESTful APIs using Node.js and Express.js, handling authentication, API requests, and dynamic data communication between frontend and backend.",
+      "Built and integrated RESTful APIs using Node.js and Express.js, handling authentication, API requests, and dynamic data communication between frontend and backend.",
     ],
   },
   // {
@@ -229,23 +230,23 @@ const projects = [
     project_link: "https://boisterous-sunshine-25c834.netlify.app/"
   },
   {
-    name: "Iwood",
+    name: "Mana Sainikulu ",
     description:
-      "Designed an interactive event-driven platform where influencers showcase products through live sessions and events, implemented skeleton loaders to improve experience during API latency, and integrated REST APIs for dynamic product data.",
+      "Developed a production-ready Flutter mobile application for the Directorate of Sainik Welfare, Government of Telangana, integrating secure authentication, REST APIs, and welfare service workflows for Ex-Servicemen and Widows.",
     tags: [
       {
-        name: "react",
+        name: "Flutter",
         color: "blue-text-gradient",
       },
       {
-        name: "restapi",
+        name: "Dart",
         color: "green-text-gradient",
       },
      
     ],
-    image: iwood,
-    source_code_link: "https://iwood.in/",
-      project_link: "https://iwood.in/"
+    image: sanik,
+    source_code_link: "https://play.google.com/store/apps/details?id=com.sainik",
+      project_link: "https://play.google.com/store/apps/details?id=com.sainik"
 
   },
   {
@@ -258,7 +259,7 @@ const projects = [
         color: "blue-text-gradient",
       },
       {
-        name: "Supabase",
+        name: "Node JS",
         color: "blue-text-gradient",
       }
    
